@@ -1,4 +1,4 @@
-### Quiz Application
+# Quiz Application
 
 
 ## Overview
@@ -26,28 +26,10 @@ The application is structured around crucial modules: Student and Admin authenti
 - Java IDE (NetBeans)
 
 ## Credits
-- Main Contributor: [Misbah Shaheen](https://github.com/Misbah-shaheen)
 - Other Contributors: [Hareem Fatima](https://github.com/HareemFatima5) and [Fizza Kashif](https://github.com/fizza49)
 
 ## License
-This project is licensed under the MIT License.
 
-Admin Login: Add questions,View Result,View all questions.
-User Interface: A GUI built with Java Swing for easy interaction.
-Database Integration: Store and retrieve data from a relational database mySQL.
-Timer:An added timer for effective Time Management.
-Filter Results: The admin can filter the students based on their marks and subjects.
-Technologies Used
-Java: Core programming language.
-Java Swing: For building the graphical user interface.
-JDBC: For database connectivity.
-MySQL: Database management system.
-Getting Started
-Prerequisites
-Java Development Kit (JDK) installed
-Java IDE (NetBeans)
-Credits
--The other contributors are Hareem Fatima (https://github.com/HareemFatima5) and Misbah shaheen (https://github.com/Misbah-shaheen)
 
-License
+
 This project is licensed under the MIT License.
